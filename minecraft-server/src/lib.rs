@@ -1,4 +1,4 @@
-use byteorder::{BigEndian, ByteOrder, ReadBytesExt};
+use byteorder::{BigEndian, ReadBytesExt};
 use std::io::Cursor;
 use std::io::{Error, ErrorKind};
 
